@@ -10,6 +10,4 @@ class Employee {
 	//QWERTYUIO
 	
 	//OIUYTREWQ
-	
-	//
 }
